@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Castle enter
+  - ShopEnter
+  - InventoryFollow
+  - DropedItem
+  - DownSword
+  - LeftSword
+  - UpSword
+  - RightSword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1472482757
+    locked: 0
+  - name: UpperTileMap
+    uniqueID: 3927341635
+    locked: 0
+  - name: DropedItem
+    uniqueID: 1374858189
+    locked: 0
+  - name: HigherEnemy
+    uniqueID: 1713044583
+    locked: 0
+  - name: Player
+    uniqueID: 3005572347
+    locked: 0
+  - name: LowerEnemy
+    uniqueID: 381720747
+    locked: 0
+  - name: Roof
+    uniqueID: 1210675565
+    locked: 0
+  - name: Shop
+    uniqueID: 2230514871
+    locked: 0
+  - name: Invetory
+    uniqueID: 322528065
+    locked: 0
